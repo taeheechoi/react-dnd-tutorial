@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-dnd-tutorial/static/js/main.ba142d2d.chunk.js",
+    "main.js.map": "/react-dnd-tutorial/static/js/main.ba142d2d.chunk.js.map",
+    "runtime-main.js": "/react-dnd-tutorial/static/js/runtime-main.8ee975c5.js",
+    "runtime-main.js.map": "/react-dnd-tutorial/static/js/runtime-main.8ee975c5.js.map",
+    "static/js/2.54d853cd.chunk.js": "/react-dnd-tutorial/static/js/2.54d853cd.chunk.js",
+    "static/js/2.54d853cd.chunk.js.map": "/react-dnd-tutorial/static/js/2.54d853cd.chunk.js.map",
+    "index.html": "/react-dnd-tutorial/index.html",
+    "precache-manifest.4b84e3ac4d398203561f1e865cc6c231.js": "/react-dnd-tutorial/precache-manifest.4b84e3ac4d398203561f1e865cc6c231.js",
+    "service-worker.js": "/react-dnd-tutorial/service-worker.js",
+    "static/js/2.54d853cd.chunk.js.LICENSE.txt": "/react-dnd-tutorial/static/js/2.54d853cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ee975c5.js",
+    "static/js/2.54d853cd.chunk.js",
+    "static/js/main.ba142d2d.chunk.js"
+  ]
+}
